@@ -10,8 +10,11 @@ namespace ConsoleAppTestRep
     {
         static void Main(string[] args)
         {
+            /*
             TestClass p = new TestClass();
             p.Print();
+            */
+            Console.WriteLine("TestClass");
             Console.ReadLine();
         }
     }

@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppTestRep
 {
-    class Program
+    public class TestClass
     {
-        static void Main(string[] args)
+        public void Print()
         {
-            TestClass p = new TestClass();
-            p.Print();
-            Console.ReadLine();
+            Console.WriteLine("TestClass");
         }
     }
 }

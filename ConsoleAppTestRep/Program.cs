@@ -10,7 +10,7 @@ namespace ConsoleAppTestRep
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Git update1");
+            Console.WriteLine("Git update2");
             Console.WriteLine("ConsoleAppTestRep");
             Console.ReadLine();
         }
